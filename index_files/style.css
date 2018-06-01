@@ -1,0 +1,59 @@
+.cotainer{
+	width:1000px;
+	height:800px;
+	background: red; 
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 50px;
+	background:green;
+}
+.logo{
+	width: 25%;
+	height:50px;
+	background:#b92908;
+	float: left;
+}
+.meno{
+	width: 75%;
+	height: 50px;
+	background:yellow;
+	float:left;
+}
+.banner-one{
+	width:100%;
+	height:200px;
+	background: green; 
+}
+.banner-two{
+	width:100%;
+	height:200px;
+	background:red;
+}
+.contact{
+	width: 50%;
+	height:200px;
+	background:yellow;
+}
+.part-1{
+	width: 100%;
+	background: blue;
+	height:50%; 
+
+}
+.contact-2{
+	width: 50%;
+	height:200px;
+	background:#1000ff;
+}
+.ending{
+	width:100%;
+	height:60px;
+	background:#b00cc3;
+}
+.footer{
+	width:100%;
+	height:50px;
+	background:#00f3ff;
+}
